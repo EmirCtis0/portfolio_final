@@ -1,0 +1,138 @@
+{
+    "anasayfa": {
+        "baslik1": "MERHABA, BEN",
+        "isim": "EMIR",
+        "baslik2": {
+            "yazilar": [
+                "FRONT END DEVELOPER",
+                "BACK END DEVELOPER",
+                "SOFTWARE DEVELOPER"
+            ]
+        },
+        "resim": "/images/emir.jpeg",
+        "yazi": "21 yaşında bir yazılım geliştirici olarak, frontend, backend ve genel yazılım geliştirme alanlarında kendimi sürekli geliştiriyorum. Kullanıcı dostu ve estetik arayüzler oluşturma tutkum, backend tarafında da güçlü, güvenilir ve ölçeklenebilir çözümler üretme becerimle birleşiyor. Kod dünyasının her katmanında yenilikçi ve işlevsel çözümler sunarak dijital dünyada iz bırakmaya kararlıyım."
+    },
+  
+    "projeler": [
+        {
+            "projeAd": "ilave.com",
+            "projeSite": "https://ilave.ozguryurt.dev/",
+            "projeResimler": [
+                "/images/projeler/ilave1.png",
+                "/images/projeler/ilave2.png",
+                "/images/projeler/ilave3.png",
+                "/images/projeler/ilave4.png"
+                
+            ]
+        },
+        {
+            "projeAd": "Ctis-256 project BILSUP",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/bilsup1.png",
+                "/images/projeler/bilsup2.png",
+                "/images/projeler/bilsup3.png",
+                "/images/projeler/bilsup4.png",
+                "/images/projeler/bilsup5.png",
+                "/images/projeler/bilsup6.png",
+                "/images/projeler/bilsup7.png",
+                "/images/projeler/bilsup8.png"
+
+            ]
+        },
+        {
+            "projeAd": "Daily Task Recommender",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/task1.png",
+                "/images/projeler/task2.png"
+            ]
+        },
+        {
+            "projeAd": "Moto-market",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/moto1.png",
+                "/images/projeler/moto2.png"
+            ]
+        },
+        {
+            "projeAd": "List-app",
+            "projeSite": "-",
+            "projeResimler": [
+                "/images/projeler/list1.png",
+                "/images/projeler/list2.png",
+                "/images/projeler/list3.png"
+            ]
+        }
+      
+    ],
+    "yetenekler": [
+        {
+            "isim": "HTML",
+            "icon": "skill-icons:html"
+        },
+        {
+            "isim": "CSS",
+            "icon": "skill-icons:css"
+        },
+        {
+            "isim": "Javascript",
+            "icon": "skill-icons:javascript"
+        },
+        {
+            "isim": "Bootstrap",
+            "icon": "skill-icons:bootstrap"
+        },
+        {
+            "isim": "TailwindCSS",
+            "icon": "skill-icons:tailwindcss-dark"
+        },
+        {
+            "isim": "React",
+            "icon": "devicon:react"
+        },
+        {
+            "isim": "PHP",
+            "icon": "skill-icons:php-dark"
+        },
+        {
+            "isim": "NodeJS",
+            "icon": "skill-icons:nodejs-dark"
+        },
+     
+        {
+            "isim": "MySQL",
+            "icon": "skill-icons:mysql-dark"
+        },
+        {
+            "isim": "Java",
+            "icon": "skill-icons:java-dark"
+        },
+        {
+            "isim": "C",
+            "icon": "devicon:c"
+        },
+        {
+            "isim": "Python",
+            "icon": "skill-icons:python-dark"
+        }
+    ],
+    "iletisim": [
+        {
+            "name": "Github",
+            "username": "@EmirCtis0",
+            "URL": "https://github.com/EmirCtis0"
+        },
+        {
+            "name": "Linkedin",
+            "username": "@Emirinaner",
+            "URL": "https://www.linkedin.com/in/emir-inaner-a303342a3/"
+        },
+        {
+            "name": "Mail",
+            "username": "emirinaner@gmail.com",
+            "URL": "mailto:emirinaner@gmail.com"
+        }
+    ]
+}
